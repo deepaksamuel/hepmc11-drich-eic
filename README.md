@@ -58,4 +58,4 @@ Run the code using:
 
 inside the `eic-shell`.
 
-It took about 1 minute to generate 4662 hepmc files, each with 2000 events.
+It took about 1 minute to generate 1554 hepmc files, each with 2000 events.
